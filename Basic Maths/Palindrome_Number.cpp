@@ -1,4 +1,7 @@
+/*
 Question -> Palindrome Number
+Problem Link -> https://leetcode.com/problems/palindrome-number/description/
+*/
 Answer ->class Solution {
 public:
     bool isPalindrome(int x) {
